@@ -1,4 +1,4 @@
-# Introduction - Personal learning plan GRS35306 Aniek Henken 1001640
+# Introduction - Personal learning plan Smart Environments GRS35306 Aniek Henken 1001640
 
 ## Background / expectations course
 I did the bachelor environmental sciences in Wageningen, with a major in environmental quality and system analysis and a minor in earth and environment. Currently I am doing my masters in climate studies, which I started last period. During my bachelor I followed the introductory course for both Python and GIS. And in my thesis I did a data analysis in Python with a some very basic machine learning, both which I found very interesting. Although my knowledge on data science is limited and my python skills are not really impressing, I do think both are good skills to have in this modernized and data-overflowing world. Especially since there is a lot of data in environmental and climate studies. So that’s why I want to improve them!  

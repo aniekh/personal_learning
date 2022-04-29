@@ -22,8 +22,8 @@ First read the introduction file. This contains my background knowledge, the ori
 ## Results
 1. I made three different working Jupyter Notebooks.
 2. In the learninggoal2.ipynb file I discuss three different types of data, where to find datasets, and look at the different applications and uses of each one.
-3. In the learninggoal2.ipynb file I discuss and practice with using the random forest algorithm for a regression analysis. I trained the model to predict daily temperatures based on previous days. 
-4. In the learninggoal3.ipynb file I practice making three different map types for the visualisation of spatial data, how to optimise them, and discuss the uses of each one. 
+3. In the learninggoal3.ipynb file I discuss and practice with using the random forest algorithm for a regression analysis. I trained the model to predict daily temperatures based on previous days. 
+4. In the learninggoal4.ipynb file I practice making three different map types for the visualisation of spatial data, how to optimise them, and discuss the uses of each one. 
 
 ## Conclusions
 I have accomplished all of my learning goals, but there is always more to learn. More on the reflection can be found in the reflection file in the repository, where I reflect on the course and my personal learning goals. 

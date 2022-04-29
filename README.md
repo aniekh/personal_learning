@@ -9,6 +9,8 @@ This portfolio is a collection of the work that I have done to accomplish my per
 3. I want to learn how to use the random forest algorithm for a regression analysis. 
 4. I want to learn how to visualise and communicate geospatial data in an easy-to-understand way. 
 
+The goal of the course is to apply data science in a environmental relevant context. Also with a focus on the ethical side of data science and boundary crossing competenses. Throughout the collection in my portfolio you can find both topics mentioned in the other learning goals and also in the reflection file.
+
 ## Data Sources 
 - Nitrogen excretion data, population density from the Dutch Central Bureau for Statistics (CBS) 
 - Weather data from de Bilt from The Royal Dutch Meteorological Institute (KNMI)
